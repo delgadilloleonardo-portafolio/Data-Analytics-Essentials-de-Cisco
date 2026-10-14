@@ -1,2 +1,7 @@
 # Data-Analytics-Essentials-de-Cisco
-Repositorio de proyecto para portafolio Data Analytics Essentials de Cisco
+## <img width="2000" height="1059" alt="analitica-de-datos" src="https://github.com/user-attachments/assets/b89fdf30-1ab9-4e39-889b-701f715a0542" />
+## Repositorio de proyecto para portafolio Data Analytics Essentials de Cisco:
+<br>En este repositorio encontrara proyectos asociados a analítica de datos y proyecto como análisis de políticas de Firewall y seguridad perimetral, análisis de indicadores de compromiso, validación de SPAM entre otros que se agregaran de manera gradual y acorde al desarrollo de los mismos durante el proceso de evolución de técnicas y análisis enfocados a la analítica de datos orientados a la ciberseguridad y la seguridad informática o de la información. <br/>
+## <br> Perfil profesional del creador <br/>
+<img align="left" width="100" alt="foto hoja de vida Loenardo" src="https://github.com/user-attachments/assets/eb842c48-bf98-4dda-a813-7cc5aa47dc47" />
+<p align="justify"> Profesional en Ingeniería de Sistemas con Especialización en Ciberseguridad y experiencia en operaciones de seguridad, monitoreo SOC, gestión inicial de incidentes y seguridad de redes en entornos empresariales. Experiencia en monitoreo de alertas, validación y clasificación de eventos, documentación, escalamiento y coordinación con equipos de seguridad, complementada con trayectoria en LAN/WAN/WLAN, VPN y operación de infraestructura de comunicaciones. Formación en ISO/IEC 27001, ciberforense, ethical hacking y Python para ciberseguridad. Orientado a Security Operations, Network Security y Vulnerability Management.</p>
