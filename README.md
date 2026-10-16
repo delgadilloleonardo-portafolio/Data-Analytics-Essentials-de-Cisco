@@ -2,5 +2,6 @@
 ## <img width="2000" height="1059" alt="analitica-de-datos" src="https://github.com/user-attachments/assets/b89fdf30-1ab9-4e39-889b-701f715a0542" />
 ## Repositorio de proyecto para portafolio Data Analytics Essentials de Cisco:
 <br>En este repositorio comparto proyectos de analítica de datos aplicados a ciberseguridad: análisis de políticas de firewall, indicadores de compromiso y detección de SPAM. El contenido se actualizará continuamente con el avance de mis investigaciones en seguridad de la información. <br/>
+## <br> Perfil profesional del creador <br/>
 <img align="left" width="100" alt="foto hoja de vida Loenardo" src="https://github.com/user-attachments/assets/eb842c48-bf98-4dda-a813-7cc5aa47dc47" />
 <p align="justify"> Profesional en Ingeniería de Sistemas con Especialización en Ciberseguridad y experiencia en operaciones de seguridad, monitoreo SOC, gestión inicial de incidentes y seguridad de redes en entornos empresariales. Experiencia en monitoreo de alertas, validación y clasificación de eventos, documentación, escalamiento y coordinación con equipos de seguridad, complementada con trayectoria en LAN/WAN/WLAN, VPN y operación de infraestructura de comunicaciones. Formación en ISO/IEC 27001, ciberforense, ethical hacking y Python para ciberseguridad. Orientado a Security Operations, Network Security y Vulnerability Management.</p>
